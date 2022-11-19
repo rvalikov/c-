@@ -1,0 +1,15 @@
+C:\Users\rvali\Desktop\C#\Lesson1_Hello_Console\bin\Debug\net6.0\Lesson1_Hello_Console.exe
+C:\Users\rvali\Desktop\C#\Lesson1_Hello_Console\bin\Debug\net6.0\Lesson1_Hello_Console.deps.json
+C:\Users\rvali\Desktop\C#\Lesson1_Hello_Console\bin\Debug\net6.0\Lesson1_Hello_Console.runtimeconfig.json
+C:\Users\rvali\Desktop\C#\Lesson1_Hello_Console\bin\Debug\net6.0\Lesson1_Hello_Console.dll
+C:\Users\rvali\Desktop\C#\Lesson1_Hello_Console\bin\Debug\net6.0\Lesson1_Hello_Console.pdb
+C:\Users\rvali\Desktop\C#\Lesson1_Hello_Console\obj\Debug\net6.0\Lesson1_Hello_Console.csproj.AssemblyReference.cache
+C:\Users\rvali\Desktop\C#\Lesson1_Hello_Console\obj\Debug\net6.0\Lesson1_Hello_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rvali\Desktop\C#\Lesson1_Hello_Console\obj\Debug\net6.0\Lesson1_Hello_Console.AssemblyInfoInputs.cache
+C:\Users\rvali\Desktop\C#\Lesson1_Hello_Console\obj\Debug\net6.0\Lesson1_Hello_Console.AssemblyInfo.cs
+C:\Users\rvali\Desktop\C#\Lesson1_Hello_Console\obj\Debug\net6.0\Lesson1_Hello_Console.csproj.CoreCompileInputs.cache
+C:\Users\rvali\Desktop\C#\Lesson1_Hello_Console\obj\Debug\net6.0\Lesson1_Hello_Console.dll
+C:\Users\rvali\Desktop\C#\Lesson1_Hello_Console\obj\Debug\net6.0\refint\Lesson1_Hello_Console.dll
+C:\Users\rvali\Desktop\C#\Lesson1_Hello_Console\obj\Debug\net6.0\Lesson1_Hello_Console.pdb
+C:\Users\rvali\Desktop\C#\Lesson1_Hello_Console\obj\Debug\net6.0\Lesson1_Hello_Console.genruntimeconfig.cache
+C:\Users\rvali\Desktop\C#\Lesson1_Hello_Console\obj\Debug\net6.0\ref\Lesson1_Hello_Console.dll
